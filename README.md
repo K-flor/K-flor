@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-📫 email : rsr0313@gmail.com
+📫 email : rsr0313@gmail.com    
 🌱 github : beginner.. 😂
 
 
