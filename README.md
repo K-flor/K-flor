@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+📫 email : rsr0313@gmail.com
+🌱 github : beginner.. 😂
+
+
 <!--
 **K-flor/K-flor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
