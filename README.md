@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-📫 email : rsr0313@gmail.com    
+📫 email : sosoj1552@gmail.com    
 🌱 github : beginner.. 😂
-
+💬 Algorithm
 
 <!--
 **K-flor/K-flor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
