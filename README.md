@@ -2,7 +2,7 @@
 
 📫 email : sosoj1552@gmail.com    
 🌱 github : beginner.. 😂      
-💬 Algorithm    
+💬 Algorithm, GraphTheory    
 
 <!--
 **K-flor/K-flor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
